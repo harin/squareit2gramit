@@ -1,2 +1,4 @@
+.PHONY: build
+
 build: 
-	pyinstaller --noconsole ./squareit2gramit/squareit2gramit.py
+	pyinstaller --noconsole --onefile --clean ./squareit2gramit/squareit2gramit.py

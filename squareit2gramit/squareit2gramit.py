@@ -21,7 +21,7 @@ class GUI:
 
         For example:
         Your directory: C://Users/Bob/Pictures/MyImages
-        The squared images will be place inside C://Users/Bob/Pictures/MyImages/squared folder
+        The squared images will be placed inside C://Users/Bob/Pictures/MyImages/squared folder
         """)
         self.label.pack()
 
